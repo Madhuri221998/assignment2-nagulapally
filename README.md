@@ -5,9 +5,7 @@
 
 # List of subjects
 object oriented programming
-
 ***
-
 DEVEL WEB APPS AND SERV
 
 ***

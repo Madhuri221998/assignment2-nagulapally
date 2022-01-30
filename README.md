@@ -10,7 +10,7 @@ ___
 ___
 
 # The list of food I would recommend
-2. Milk
-1. Eggs
+1. Milk
+2. Eggs
 3. Bread
 4. Fruits

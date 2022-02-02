@@ -36,7 +36,7 @@ ___
 
 `Live as if you were to die tomorrow. Learn as if you were to live forever`
 
-                                                    *Mahatma Gandhi*
+ *Mahatma Gandhi*
 
 “A person who never made a mistake never tried anything new.”
 

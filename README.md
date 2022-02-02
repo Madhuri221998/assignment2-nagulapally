@@ -52,7 +52,7 @@ ___
 
 
 ```
-{
+
 vector<vector<int>> adj; // graph represented as an adjacency list
 int n; // number of vertices
 vector<bool> visited;
@@ -63,5 +63,5 @@ void dfs(int v) {
             dfs(u);
     }
 }
-}
+
 ```

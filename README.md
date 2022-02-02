@@ -52,7 +52,6 @@ ___
 
 
 ```
-
 vector<vector<int>> adj; // graph represented as an adjacency list
 int n; // number of vertices
 vector<bool> visited;
@@ -63,5 +62,6 @@ void dfs(int v) {
             dfs(u);
     }
 }
-
 ```
+
+[*link of the source code*](https://cp-algorithms.com/graph/depth-first-search.html)

@@ -21,7 +21,7 @@ ___
 
 ## Sports and Activities Recomended
 
-|:Name of the Sport/Activity|:Location:|Approx expenditure for equipment:|
+|Name of the Sport/Activity|Location|Approx expenditure for equipment|
 |: Basketball |: Rectangular Court :| $100 :|
 |: Cricket |: Large Grass Field :| $50 :|
 |: Golf |: Court :| $250 :|

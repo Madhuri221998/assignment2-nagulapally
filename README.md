@@ -34,10 +34,10 @@ ___
 
 # Pithy Quotes
 
-`Live as if you were to die tomorrow. Learn as if you were to live forever`
+`Live as if you were to die tomorrow. Learn as if you were to live forever...`
 
- *Mahatma Gandhi*
+ *- Mahatma Gandhi*
 
-“A person who never made a mistake never tried anything new.”
+`A person who never made a mistake never tried anything new...`
 
-– Albert Einstein
+*– Albert Einstein*

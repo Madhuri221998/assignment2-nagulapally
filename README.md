@@ -29,3 +29,15 @@ These are the few sports I would recomend to try with the location to be played 
 | Cricket | Large Grass Field | $50 |
 | Golf | Court | $250 |
 | Soccer | Large Fields | $150 |
+
+___
+
+# Pithy Quotes
+
+`Live as if you were to die tomorrow. Learn as if you were to live forever`
+
+                                                    *Mahatma Gandhi*
+
+“A person who never made a mistake never tried anything new.”
+
+– Albert Einstein

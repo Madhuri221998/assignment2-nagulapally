@@ -32,7 +32,7 @@ These are the few sports I would recomend to try with the location to be played 
 
 ___
 
-# Pithy Quotes
+# Quotes
 
 `Live as if you were to die tomorrow. Learn as if you were to live forever...`
 

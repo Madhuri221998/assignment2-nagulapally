@@ -23,7 +23,7 @@ ___
 
 | Name of the Sport/Activity | Location | Approx expenditure for equipment |
 | --- | --- | --- |
-|: Basketball |: Rectangular Court :| $100 :|
-|: Cricket |: Large Grass Field :| $50 :|
-|: Golf |: Court :| $250 :|
-|: Soccer |: Large Fields :| $150:|
+| Basketball | Rectangular Court | $100 |
+| Cricket | Large Grass Field | $50 |
+| Golf | Court | $250 |
+| Soccer | Large Fields | $150 |

@@ -21,7 +21,9 @@ ___
 
 ## Sports and Activities Recomended
 
-| Name of the Sport/Activity | Location | Approx expenditure for equipment |
+These are the few sports I would recomend to try with the location to be played and the cost for equipments
+
+| Name of the Sport/Activity | Location | Approx Price for equipment |
 | --- | --- | --- |
 | Basketball | Rectangular Court | $100 |
 | Cricket | Large Grass Field | $50 |

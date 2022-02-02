@@ -16,3 +16,13 @@ ___
 4. Fruits
 
 [*Link to AboutMe*](https://github.com/Madhuri221998/assignment2-nagulapally/blob/main/AboutMe.md)
+
+___
+
+## Sports and Activities Recomended
+
+|:Name of the Sport/Activity|:Location:|Approx expenditure for equipment:|
+|: Basketball |: Rectangular Court :| $100 :|
+|: Cricket |: Large Grass Field :| $50 :|
+|: Golf |: Court :| $250 :|
+|: Soccer |: Large Fields :| $150:|
